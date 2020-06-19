@@ -1,0 +1,26 @@
+/* ------------------ INDEX PAGE ------------------- */
+.sign-in {
+  position:absolute;
+  top:45%;
+  left:50%;
+  transform:translate(-50%, -50%);
+}
+
+.form_login {
+  border-radius:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.sign_btn {
+  border-radius:20px;
+  background-color:#E5E7E9;
+}
+
+.sign_btn:hover {
+  color:white !important;
+}
+
+.register_text {
+  font-size:15px;
+}
