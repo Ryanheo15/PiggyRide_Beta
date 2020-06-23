@@ -24,3 +24,19 @@
 .register_text {
   font-size:15px;
 }
+
+/* ------------------ HOME PAGE ------------------- */
+.home_main input {
+  border-radius:20px !important ;
+}
+
+.propic-border {
+  border:3px solid gray;
+  padding:10px;
+}
+
+.propic-border {
+  color:gray;
+  font-size:32px;
+  border-radius:50%;
+}
