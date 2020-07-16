@@ -25,8 +25,8 @@
   font-size:15px;
 }
 
-/* ------------------ HOME PAGE ------------------- */
-.home_main input {
+/* ------------------ REGISTERATION PAGE ------------------- */
+.register_main input {
   border-radius:20px !important ;
 }
 
@@ -39,4 +39,20 @@
   color:gray;
   font-size:32px;
   border-radius:50%;
+}
+
+/* ------------------ HOME PAGE ------------------- */
+.home_main .propic {
+  height:150px;
+  width:150px;
+}
+
+.home_main .container-home {
+  width:90vw !important;
+  margin:auto;
+}
+
+.home_main .media {
+  background-color:#fdc185;
+  border-radius:20px !important;
 }
